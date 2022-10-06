@@ -1,5 +1,9 @@
 [
   {
+    "package": "clidatajp",
+    "oncran": true
+  },
+  {
     "package": "moranajp",
     "oncran": true
   }
