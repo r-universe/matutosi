@@ -1,10 +1,10 @@
 [
   {
-    "package": "moranajp",
+    "package": "clidatajp",
     "oncran": true
   },
   {
-    "package": "clidatajp",
+    "package": "moranajp",
     "oncran": true
   }
 ]
