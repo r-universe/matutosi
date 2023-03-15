@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "clidatajp"]
-	path = clidatajp
-	url = https://github.com/matutosi/clidatajp
-	shallow = true
-	registered = true
 [submodule "moranajp"]
 	path = moranajp
 	url = https://github.com/matutosi/moranajp
+	shallow = true
+	registered = true
+[submodule "clidatajp"]
+	path = clidatajp
+	url = https://github.com/matutosi/clidatajp
 	shallow = true
 	registered = true
