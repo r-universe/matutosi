@@ -18,3 +18,8 @@
 	url = https://github.com/matutosi/moranajp
 	shallow = true
 	registered = true
+[submodule "pivotea"]
+	path = pivotea
+	url = https://github.com/matutosi/pivotea
+	shallow = true
+	registered = true
