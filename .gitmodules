@@ -5,9 +5,6 @@
 [submodule "clidatajp"]
 	path = clidatajp
 	url = https://github.com/matutosi/clidatajp
-[submodule "ecan"]
-	path = ecan
-	url = https://github.com/matutosi/ecan
 [submodule "moranajp"]
 	path = moranajp
 	url = https://github.com/matutosi/moranajp
