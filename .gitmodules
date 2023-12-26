@@ -8,9 +8,6 @@
 [submodule "ecan"]
 	path = ecan
 	url = https://github.com/matutosi/ecan
-[submodule "moranajp"]
-	path = moranajp
-	url = https://github.com/matutosi/moranajp
 [submodule "pivotea"]
 	path = pivotea
 	url = https://github.com/matutosi/pivotea
