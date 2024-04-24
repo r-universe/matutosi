@@ -14,3 +14,6 @@
 [submodule "screenshot"]
 	path = screenshot
 	url = https://github.com/matutosi/screenshot
+[submodule "textrar"]
+	path = textrar
+	url = https://github.com/matutosi/textrar
